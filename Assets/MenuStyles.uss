@@ -1,0 +1,13 @@
+.menu-button {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(195, 195, 195, 255);
+    -unity-font-definition: url('project://database/Assets/UI%20Toolkit/GRAFITIjedagraphicxSDF1.asset?fileID=11400000&guid=9a7f696bca48614438763110f1541976&type=2#GRAFITIjedagraphicxSDF1');
+    font-size: 30px;
+}
+
+.menu-button:hover {
+    font-size: 40px;
+    rotate: -7deg;
+    color: rgb(255, 255, 255);
+    transition-duration: 0.3s;
+}
